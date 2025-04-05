@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+#makefiles
+receiver
+sender
+
 # Object files
 *.o
 *.ko
